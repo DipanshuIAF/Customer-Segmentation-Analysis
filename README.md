@@ -80,3 +80,9 @@ c. Learn visualization techniques for conveying insights effectively.
 
 This project provided a comprehensive approach to customer segmentation analysis, leveraging Python for data exploration, clustering, and visualization. The insights gained from this analysis can drive data-driven decision-making and enhance business strategies for the e-commerce company.
 
+**Tutorial Video of this working model**
+
+
+
+https://github.com/user-attachments/assets/08a95514-3855-4d1a-8f1f-41580d7fc629
+
